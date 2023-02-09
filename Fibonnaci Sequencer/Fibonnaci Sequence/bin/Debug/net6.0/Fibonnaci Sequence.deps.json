@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fibonnaci Sequence/1.0.0": {
+        "runtime": {
+          "Fibonnaci Sequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fibonnaci Sequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

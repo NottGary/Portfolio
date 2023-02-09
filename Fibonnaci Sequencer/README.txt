@@ -1,0 +1,1 @@
+Gives user number thats at N'th place in the Fibonnaci Sequence
